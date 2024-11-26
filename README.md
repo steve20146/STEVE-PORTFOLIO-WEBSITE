@@ -1,2 +1,2 @@
-# MY-PORTFOLIO-WEBSITE
-PERSONAL PROFILE WEBSITE
+# vCard - Personal portfolio
+
